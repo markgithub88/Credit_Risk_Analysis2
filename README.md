@@ -2,7 +2,7 @@
 
 # Deliverable 4: Written Report on the Credit Risk Analysis
 
-Overview of Module 18.   I think the overall theme is, “How do we save money, but keep our accuracy?”  This is add/deleting columns b/c that’s money.  After sorting the features in the challenge, it appears that anything below num_op_rev_tl : ( 0.00997151296328166 ) is useless and could be removed.  That would save money.
+Overview. I think the overall theme is, “How do we save money, AND keep the data accurate, too?”  This is add/deleting columns b/c that’s money.  After sorting the features in the challenge, it appears that anything below num_op_rev_tl : ( 0.00997151296328166 ) is useless and could be removed.  That would save money.
 
 This module and challenge are also all about finding the balance and accuracy.  Overall, what we did in this module is tune and sift the dataset and look at scores.  The question we ask ourselves, Is there a good fit for the model?
 
